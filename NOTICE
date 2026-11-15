@@ -1,0 +1,12 @@
+Zwift Online Account Picker
+Unofficial community utility. Not affiliated with or endorsed by Zwift.
+
+Launcher/account-picker helpers were extracted and adapted from the local
+launcher additions developed alongside a customized zoffline/zwift-offline
+installation. The source project carries GNU AGPL v3.0. This extraction is
+distributed under AGPL-3.0-only; the full license is included in LICENSE.
+
+2026-11-15 extraction changes: standalone entry point; per-Windows-user local
+data directory; removal of offline-server/mode-switching dependencies; online
+hosts-file guard; independent build/test/release scripts and documentation.
+No proprietary Zwift game, Microsoft runtime or login session is distributed.
