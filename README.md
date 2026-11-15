@@ -92,17 +92,6 @@ Build uses the Windows .NET Framework C# compiler. It creates the optional
 `Zwift Online Account Picker.exe`; the CMD works from source without compiling.
 Tests use temporary dummy launchers and do not log in or upload activities.
 
-## Share on GitHub
-
-Suggested repository: **zwift-online-account-picker**.
-
-Upload this folder's source files, README, docs, scripts, tests, VERSION,
-LICENSE and NOTICE. The `.gitignore` excludes local state and generated builds.
-Use a GitHub Release for the packaged EXE ZIP and include its matching source.
-For GitHub's browser upload, upload the source folders/files, excluding the
-generated EXE; put the complete ZIP under Releases for people to download.
-Never upload your whole modified Zwift Offline folder or AppData profiles.
-
 ## License
 
 GNU Affero General Public License v3.0 (**AGPL-3.0-only**). See [LICENSE](LICENSE)
